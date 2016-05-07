@@ -1,3 +1,29 @@
+Version 1.1
+========================================
+-Update for KSP 1.1
+-New Part: mk3 shock cone
+-New Part: 'Sievert' Nuclear Thermal Jet
+-New Part: 'Hades' Nuclear Rocket
+-New Part: 'Wipeout' TurboRamJet
+-New Part: mk3 docking port
+-New Part: Shielded mk3 docking port
+-Model rework: 'Wellington' reworked, now has thrust reverser
+-Model rework; Coxswain OMs symmetry fixed, now has 0.625m  Buran style variant
+-Model Rework: crew fuselage extension
+-Mk3-2 Cockpit now has IVA
+-Fixed symmetry issues with chines
+-Fixed Symmetry issues with Fuselage extensions
+-Added search tags
+-Fixed Mk3 T Hub
+-Fixed node alignment on Mk3 X Hub
+-Model Tweak; Service Bay: fixed bad UV map issue
+-Fixed concentric Aerospike node size
+-Fixed Linear Aerospike node size
+-Depreciated KM_Gimbal Plugin
+-fixed some texture refeence URLS, depreciated depreciated stock textures
+-Added FAR MM compatibility patch
+-Added NFE MM compatibility patch
+
 Version 1.09
 =====================================
 -Update for KSP 1.05
